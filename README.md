@@ -1,3 +1,3 @@
 # flight-booking
 
-### [Live site](https://sagazirobiul.github.io/flight-booking/#)
+### [Live site](https://sagazirobiul.github.io/flight-booking/index.html)
